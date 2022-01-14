@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/Ixe4cJY.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Mãos de uma pessoa digitando em um computador comandos de lógica de programação">
 
 <p align="left"> 
-  I'm a Information Systems student who is interested about about web development, in special <strong>Front-End</strong> technologies and digital accessibility. 
+  I'm an Information Systems student who is interested about web development, in special <strong>Front-End</strong> technologies and digital accessibility. 
 </p>
 
 <p align="left"> 
