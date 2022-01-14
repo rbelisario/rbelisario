@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  :books: Languages: <strong>C, JavaScript (React.js, Typescript), HTML/CSS, SQL (PostgreSQL), Java</strong>
+  :books: Languages: <strong>C, JavaScript (React.js, Node.js, Typescript), HTML/CSS, SQL (PostgreSQL), Java</strong>
 </p>
 
 <p align="left">
