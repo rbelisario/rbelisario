@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
- :mega: I’m looking for a software development internship!
-</p>
-
-<p align="left">
   💌 Please feel free to contact me!
 </p>
 
